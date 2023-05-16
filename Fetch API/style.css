@@ -1,0 +1,24 @@
+.container
+{
+    margin-top: 200px;
+    margin-left: 500px;
+    
+
+    
+}
+
+.f-group
+{
+    float: left;
+    
+}
+
+select 
+{
+    border: 3px solid #f6f1f1;
+    height: 40px;
+    width: 200px;
+    padding: 0 15px;
+    margin-right: 20px; 
+}
+
